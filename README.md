@@ -1,4 +1,4 @@
-# Amazing-Power-BI-Dashboard
+# Amazon-Power-BI-Dashboard
 Link to the dataset on kaggle: https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
  I created an interactive dashboard using Amazon Prime Movies & TV Shows data. Highlights include:
 🌍 Field maps for country-wise data
